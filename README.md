@@ -17,7 +17,9 @@
 - AI search capabilities using Azure Bing Search
 
 
-You can find me on:
+**You can find me on:**
 GitHub (you are here)
 LinkedIn
+
+<a href="https://github.com/amitpalnz">GitHub (you are here)</a>
 
