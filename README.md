@@ -1,7 +1,7 @@
 - 👋 **Hi, I’m Amitpal Singh**
-- 👀 I am a Software Developer from New Zealand.
+- 👀 I am a Software Developer from New Zealand holding B.E degree in Computer Science & Technology.
 - 🎓 I am currently doing Advanced Software development Certification from Mission Ready.
-- 🌱 Recently worked on following tools and technologies while completing my missions at Mission Ready:
+- 🌱 Recently worked on following tools and technologies while completing my various missions at Mission Ready:
 - React.js
 - HTML
 - CSS
@@ -9,12 +9,14 @@
 - Node.js
 - NoSQL database (MongoDB).
 - Docker/Docker compose.
-- CI/CD pipeline using Github Action, add unit test, add static code analysis using Snyk GitHub Actions
+- CI/CD pipeline using Github Action, adding unit test cases, adding static code analysis using Snyk GitHub Actions.
 - Firebase hosting for deploying React.js app.
 - Chatbot using Google Dialog Flow.
 - Image recognition using Google cloud vision.
 - AI Natural language processing using Azure LUIS (Language Understanding Intelligent service).
-- AI search capabilities using Azure Bing Search
+- AI search capabilities using Azure Bing Search.
+
+- Developed a MERN stack project for Property management as a part of a mission
 
 
 **You can find me on:**
