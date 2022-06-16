@@ -1,5 +1,5 @@
-- 👋 **Hi, I’m Amitpal Singh**
-- 👀 I am a Software Developer from New Zealand holding B.E degree in Computer Science & Technology.
+- <h1>👋 Hi, I’m Amitpal Singh </h1>
+- <h3>👀 I am a Software Developer from New Zealand holding B.E degree in Computer Science & Technology.</h3>
 - 🎓 I am currently doing Advanced Software development Certification from Mission Ready.
 - 🌱 Recently worked on following tools and technologies while completing my various missions at Mission Ready:
 - React.js
