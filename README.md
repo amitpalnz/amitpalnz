@@ -25,6 +25,5 @@
 
 - <a href="https://www.linkedin.com/in/amitpal-singh-5a85a322b" rel="nofollow">LinkedIn</a>
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpalnz&theme=solarized_dark
 
 
