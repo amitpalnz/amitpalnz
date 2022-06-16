@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amitpal Singh
+- 👋 **Hi, I’m Amitpal Singh**
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning API's in node.js, chatbot using Google DialogFlow, LUIS(Language Understanding Intelligent services), Google Cloud Vision.
 - 💞️ I’m looking to collaborate on ...
