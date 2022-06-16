@@ -25,4 +25,4 @@
 
 - <a href="https://www.linkedin.com/in/amitpal-singh-5a85a322b" rel="nofollow">LinkedIn</a>
 
-- http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpalnz&theme=solarized_dark
+- <img src="https://camo.githubusercontent.com/ef94c668022a8b24e63cd4941ae996861bfc3c0b1285a136dffd37f42b79cde9/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d5761666971416c69267468656d653d6d6f6e6f6b6169" alt="" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitpalnz&theme=solarized_dark" style="max-width: 100%;">
