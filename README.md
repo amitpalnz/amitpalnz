@@ -18,8 +18,8 @@
 
 
 **You can find me on:**
-GitHub (you are here)
-LinkedIn
 
-<a href="https://github.com/amitpalnz">GitHub (you are here)</a>
+- <a href="https://github.com/amitpalnz">GitHub (you are here)</a>
+
+- <a href="https://www.linkedin.com/in/amitpal-singh-5a85a322b" rel="nofollow">LinkedIn</a>
 
