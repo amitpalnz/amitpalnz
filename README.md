@@ -1,6 +1,6 @@
 - <h1 align="center">👋 Hi, I’m Amitpal Singh </h1>
-- 👀 <h3 align="center">Full Stack Developer </h3>
-- 👀 <h3>B.E degree in Computer Science & Technology.</h3>
+- <h3 align="center">Full Stack Developer </h3>
+- 👀 B.E degree in Computer Science & Technology.
 - 🎓 I am currently doing Advanced Software development Certification from Mission Ready.
 - 🌱 Recently worked on following tools and technologies while completing my various missions at Mission Ready:
 - React.js
