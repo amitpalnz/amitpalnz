@@ -1,10 +1,23 @@
 - 👋 **Hi, I’m Amitpal Singh**
-- 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning API's in node.js, chatbot using Google DialogFlow, LUIS(Language Understanding Intelligent services), Google Cloud Vision.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I am a Software Developer from New Zealand.
+- 🎓 I am currently doing Advanced Software development Certification from Mission Ready.
+- 🌱 Recently worked on following tools and technologies while completing my missions at Mission Ready:
+- React.js
+- HTML
+- CSS
+- Java Script
+- Node.js
+- NoSQL database (MongoDB).
+- Docker/Docker compose.
+- CI/CD pipeline using Github Action, add unit test, add static code analysis using Snyk GitHub Actions
+- Firebase hosting for deploying React.js app.
+- Chatbot using Google Dialog Flow.
+- Image recognition using Google cloud vision.
+- AI Natural language processing using Azure LUIS (Language Understanding Intelligent service).
+- AI search capabilities using Azure Bing Search
 
-<!---
-amitpalnz/amitpalnz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+You can find me on:
+GitHub (you are here)
+LinkedIn
+
