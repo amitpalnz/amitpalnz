@@ -1,5 +1,5 @@
 - <h1 align="center">👋 Hi, I’m Amitpal Singh </h1>
-- 👀 I am a <h3>Software Developer </h3> from New Zealand holding <h3>B.E degree in Computer Science & Technology.</h3>
+- 👀 I am a <h3>Software Developer </h3> in New Zealand and holds <h3>B.E degree in Computer Science & Technology.</h3>
 - 🎓 I am currently doing Advanced Software development Certification from Mission Ready.
 - 🌱 Recently worked on following tools and technologies while completing my various missions at Mission Ready:
 - React.js
